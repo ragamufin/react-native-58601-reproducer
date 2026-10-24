@@ -1,0 +1,14 @@
+{
+  "scroll": true,
+  "inputs": 1,
+  "busy": false,
+  "views": 50,
+  "commandBurst": 20,
+  "burstKind": "both",
+  "burstWhere": "before",
+  "busyAfterReloadMs": 100,
+  "focusDelayMs": 300,
+  "reloadDelayMs": 700,
+  "mitigation": "none",
+  "unmountBusyMs": 0
+}
